@@ -19,4 +19,6 @@ a dirt simple custom frontend for Minecraft's stupid new AI virtual agent thingy
 - [ ] Support multiple responses from one query, as this stupid thing for some reason sends lists as it's own response. those won't show up unless i do this
 - [ ] Add handling for rate limits
 - [ ] New conversation button
+- [ ] Prevent spamming send button before response is done generating
+- [ ] Prevent sending empty messages in general
 - [ ] Conversation list/history (why?)
