@@ -3,8 +3,6 @@ a dirt simple custom frontend for Minecraft's stupid new AI virtual agent thingy
 
 <img width="1920" height="1075" alt="image" src="https://github.com/user-attachments/assets/4c4e1831-9e00-4736-a592-28a5ee241576" />
 
-
-
 ## Requirements:
 1. Node.js v22 or higher
 2. Yarn package manager
