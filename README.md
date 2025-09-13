@@ -1,7 +1,7 @@
 # merl
 a dirt simple custom frontend for Minecraft's stupid new AI virtual agent thingy
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a839384-e440-455f-b6d9-607c35b0e0f0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d19cc6d4-090b-4273-b7b7-0e98c50ca15b" />
 
 
 ## Requirements:
