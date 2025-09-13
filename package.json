@@ -1,0 +1,17 @@
+{
+  "name": "merl",
+  "packageManager": "yarn@4.9.1",
+  "version": "1.0.0",
+  "description": "dumb minecraft ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OSPUZE_LOV3R",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
