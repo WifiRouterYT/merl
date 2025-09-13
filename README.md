@@ -1,9 +1,16 @@
 # merl
 a dirt simple custom frontend for Minecraft's stupid new AI virtual agent thingy
 
+## Requirements:
+1. Node.js v22 or higher
+2. Yarn package manager
+3. A functioning frontal lobe
+4. CPU (optional)
+5. Internet
+
 ## To run:
 1. Clone the repo
-2. Run `npm i`
+2. Run `yarn install`
 3. Run `node index.js` and open up http://localhost:3000 in a browser
 4. Have fun (if you can) talking to this fairly stupid AI
 
